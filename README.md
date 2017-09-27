@@ -1,6 +1,8 @@
 # 2048
 An android game built with MIT App Inventor
 
+![App icon](https://github.com/lonelyenvoy/2048/raw/master/icon/app_icon.png)
+
 ### Download
 You may download the android apk file <a href="https://github.com/lonelyenvoy/2048/raw/master/apk/Game2048.apk" target="_blank">here</a>, or scan the QR code below:
 
